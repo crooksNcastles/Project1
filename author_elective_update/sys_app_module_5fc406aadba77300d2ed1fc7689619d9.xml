@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Project_1">0bc4c26adba77300d2ed1fc768961915</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="task">active=true^assigned_toISEMPTY^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open - Unassigned</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>task</name>
+        <order>4</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-31 18:32:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5fc406aadba77300d2ed1fc7689619d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open - Unassigned</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Project_1" source="x_393643_project_1">8a54c62adba77300d2ed1fc76896192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Project_1">8a54c62adba77300d2ed1fc76896192d</sys_scope>
+        <sys_update_name>sys_app_module_5fc406aadba77300d2ed1fc7689619d9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-31 18:32:05</sys_updated_on>
+        <timeline_page/>
+        <title>Open - Unassigned</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Project_1">8a54c62adba77300d2ed1fc76896192d</application>
+        <file_path/>
+        <instance_id>391b7a18db1a5b00cbf6d5b0cf961928</instance_id>
+        <instance_name>dev59794</instance_name>
+        <name>sys_app_module_5fc406aadba77300d2ed1fc7689619d9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Project_1">0bc4c26adba77300d2ed1fc768961915</application><assessment/><content_page/><device_type/><filter table="task">active=true^assigned_toISEMPTY^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open - Unassigned</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>task</name><order>4</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-31 18:32:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5fc406aadba77300d2ed1fc7689619d9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open - Unassigned</sys_name><sys_overrides/><sys_package display_value="Project_1" source="x_393643_project_1">8a54c62adba77300d2ed1fc76896192d</sys_package><sys_policy/><sys_scope display_value="Project_1">8a54c62adba77300d2ed1fc76896192d</sys_scope><sys_update_name>sys_app_module_5fc406aadba77300d2ed1fc7689619d9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-31 18:32:05</sys_updated_on><timeline_page/><title>Open - Unassigned</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-743723414</payload_hash>
+        <record_name>Open - Unassigned</record_name>
+        <reverted_from/>
+        <source>8e54c62adba77300d2ed1fc76896192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-31 18:32:05</sys_created_on>
+        <sys_id>d3c406aadba77300d2ed1fc7689619db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ce8f2d8d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-31 18:32:05</sys_updated_on>
+        <type>Module</type>
+        <update_guid>1fc406aa5fa773007fa46bd9384d96da</update_guid>
+        <update_guid_history>1fc406aa5fa773007fa46bd9384d96da:-743723414</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Open - Unassigned">30e96a6edb2b7300d2ed1fc768961920</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-31 21:14:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>5b73f5be612942bbb5a907b683d900e1</sys_id>
+        <sys_metadata>5fc406aadba77300d2ed1fc7689619d9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open - Unassigned</sys_name>
+        <sys_package display_value="Project_1" source="x_393643_project_1">8a54c62adba77300d2ed1fc76896192d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Project_1">8a54c62adba77300d2ed1fc76896192d</sys_scope>
+        <sys_scope_delete display_value="">6d5e90b0dbe04ef8b646a07ec56fe004</sys_scope_delete>
+        <sys_update_name>sys_app_module_5fc406aadba77300d2ed1fc7689619d9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5fc406aadba77300d2ed1fc7689619d9">d3c406aadba77300d2ed1fc7689619db</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-31 21:14:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
